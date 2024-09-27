@@ -1,0 +1,59 @@
+.button {
+    background-color: #4d5ae5;
+    Family: Roboto Weight: Medium Size: 16px Line Height: 24px Letter Spacing: 4%;
+
+}
+
+button:hover {
+    background-color: #404BBF;
+    cursor: pointer;
+
+}
+
+.tel {
+    color: #434455;
+}
+
+tel:hover {
+    color: #404BBF;
+}
+
+.address {
+    color: #434455;
+    color: hover:#404BBF;
+    color: focus:#404BBF;
+
+}
+
+body {
+    Family: font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.6px;
+    text-align: left;
+    color: #434455;
+}
+
+title {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.6px;
+    text-align: left;
+}
+
+h1 {
+    Family: Roboto Weight: Bold Size: 56px Letter Spacing: 2% Line Height: 60px
+}
+
+h2 {
+    fFamily: Roboto Weight: Bold Size: 36px Letter Spacing: 2%
+}
+
+h3 {
+    Family: Roboto Weight: Medium Size: 20px Letter Spacing: 2%
+}
+
+.links {
+    Family: Roboto Weight: Regular Size: 12px Line Height: 16px Letter Spacing: 4% Decoration: Underline
+}
