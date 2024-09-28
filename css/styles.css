@@ -4,20 +4,19 @@
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17px;
-    text-decoration: Underline letter-spacing: 0, 03em;
+    letter-spacing: 0.03em text-decoration: Underline letter-spacing: 0, 03em;
     color: #4d5ae5;
+    text-transform: uppercase
 }
 
-.Web {
-    color: #4D5AE5;
-}
+
 
 
 .Studio {
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.17px;
+
     text-decoration: Underline letter-spacing: 0, 03em;
     color: #2e2f42;
 }
@@ -26,8 +25,7 @@
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+
     color: #2e2f42;
 }
 
@@ -36,8 +34,7 @@
     font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+
     color: #434455;
 }
 
@@ -60,8 +57,7 @@ h1 {
     font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.04em;
+
     color: #fff;
 
 }
@@ -70,7 +66,7 @@ h1 {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+
     text-align: left;
     background-color: #4d5ae5;
 
@@ -85,7 +81,7 @@ button:hover {
 .section-three {
     width: 1440px;
     height: 732px;
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+
     background: #f4f4fd;
 }
 
@@ -104,7 +100,7 @@ body {
         sans-serif;
     font-size: 16px;
     font-weight: 500;
-    line-height: 24px;
+
     text-align: left;
     color: #434455;
     background-color: #FFFFFF;
@@ -135,8 +131,7 @@ h3 {
     font-family: Roboto, sans-serif;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
+
     text-align: center;
     color: #2e2f42;
 }
@@ -145,8 +140,7 @@ p {
     font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
+
     color: #434455;
 }
 
