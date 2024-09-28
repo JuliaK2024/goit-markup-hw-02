@@ -1,3 +1,58 @@
+.logo {
+
+    font-family: Raleway, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17px;
+    text-decoration: Underline letter-spacing: 0, 03em;
+    color: #4d5ae5;
+}
+
+.navigation {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.contacts {
+
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.tel {
+    color: #434455;
+}
+
+tel:hover {
+    color: #404BBF;
+}
+
+.section1 {
+    width: 1440px;
+    height: 600px;
+    background: #2e2f42;
+}
+
+h1 {
+
+    font-family: Roboto, sans-serif;
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.07143;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #fff;
+
+}
+
 .button {
     font-family: Roboto;
     font-size: 16px;
@@ -14,20 +69,18 @@ button:hover {
 
 }
 
-.tel {
-    color: #434455;
+.section2 {
+    width: 1440px;
+    height: 732px;
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.25);
+    background: #f4f4fd;
 }
 
-tel:hover {
-    color: #404BBF;
-}
 
-.navigation {
-    color: #434455;
-    color: hover:#404BBF;
-    color: focus:#404BBF;
 
-}
+
+
+
 
 body {
     font-family: Roboto,
@@ -50,14 +103,7 @@ title {
     text-align: left;
 }
 
-h1 {
 
-    font-family: Roboto;
-    font-size: 56px;
-    font-weight: bold;
-    line-height: 60px;
-
-}
 
 
 h2 {
@@ -76,27 +122,12 @@ h3 {
 
 }
 
-.links {
 
-    font-family: Roboto;
-    font-size: 12px;
-    font-weight: regular;
-    line-height: 16px;
-}
 
 .Web {
     color: #4D5AE5;
 }
 
-.logo {
-
-    font-family: Raleway;
-    font-size: 18px;
-    font-weight: 700;
-    line-height: 1.17px;
-    text-decoration: Underline letter-spacing: 0, 03em;
-    color: #4d5ae5;
-}
 
 .Studio {
     font-family: Raleway;
@@ -106,4 +137,8 @@ h3 {
     text-decoration: Underline letter-spacing: 0, 03em;
     color: #2e2f42;
 }
-}
+
+
+color: #434455;
+color: hover:#404BBF;
+color: focus:#404BBF;
