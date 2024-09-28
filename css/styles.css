@@ -87,7 +87,7 @@ h3 {
     color: #4D5AE5;
 }
 
-logo {
+.logo {
 
     font-family: Raleway;
     font-size: 18px;
@@ -95,4 +95,14 @@ logo {
     line-height: 1.17px;
     text-decoration: Underline letter-spacing: 0, 03em;
     color: #4d5ae5;
+}
+
+.Studio {
+    font-family: Raleway;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.17px;
+    text-decoration: Underline letter-spacing: 0, 03em;
+    color: #2e2f42;
+}
 }
