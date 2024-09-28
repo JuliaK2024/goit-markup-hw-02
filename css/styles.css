@@ -144,6 +144,8 @@ h3 {
     font-family: Roboto, sans-serif;
     font-size: 20px;
     font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 
     text-align: center;
     color: #2e2f42;
@@ -158,13 +160,32 @@ p {
     color: #434455;
 }
 
+.our-portfolio {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.our-portfolio-item {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+
+}
+
 .footer {
     width: 1440px;
     height: 312px;
     background-color: #2e2f42;
 }
 
-.Studio-footer {
+.studio-footer {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
