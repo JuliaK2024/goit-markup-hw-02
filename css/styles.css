@@ -15,11 +15,14 @@
 
 
 .Studio {
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-
-    text-decoration: Underline letter-spacing: 0, 03em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-decoration: Underline;
+    letter-spacing: 0, 03em;
+    text-transform: uppercase;
     color: #2e2f42;
 }
 
@@ -27,8 +30,11 @@
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
-
     color: #2e2f42;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    .navigation: hover:#404bbf;
+    .navigation: :active: #404bbf;
 }
 
 .contacts {
@@ -36,9 +42,10 @@
     font-family: Roboto, sans-serif;
     font-weight: 400;
     font-size: 16px;
-
     color: #434455;
 }
+
+
 
 .tel {
     color: #434455;
