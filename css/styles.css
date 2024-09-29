@@ -1,3 +1,8 @@
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+}
+
 .logo {
 
     font-family: Raleway, sans-serif;
@@ -10,9 +15,6 @@
     color: #4d5ae5;
     text-transform: uppercase;
 }
-
-
-
 
 .Studio {
     font-family: Raleway, sans-serif;
@@ -82,13 +84,28 @@
     text-align: left;
     background-color: #4d5ae5;
     line-height: 1.5;
+    cursor: pointer;
 
 }
 
-.button:hover {
+.button:focus {
     background-color: #404BBF;
-    cursor: pointer;
+}
 
+.h-two {
+    font-family: Roboto, sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+}
+
+.p-two {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .section-three {
@@ -129,15 +146,10 @@ title {
     text-align: left;
 }
 
-
-
-
-h2 {
-
+.h-two {
     font-family: Roboto;
     font-size: 36px;
     font-weight: bold;
-
 }
 
 h3 {
@@ -146,7 +158,6 @@ h3 {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-
     text-align: center;
     color: #2e2f42;
 }
