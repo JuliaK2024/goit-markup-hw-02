@@ -53,15 +53,15 @@ title {
     color: #404bbf;
 }
 
-.contacts {
 
-    font-family: Roboto, sans-serif;
-    font-weight: 400;
+
+.mail-telephone {
     font-size: 16px;
-    color: #434455;
     line-height: 1.5;
     letter-spacing: 0.02em;
+    color: #434455;
 }
+
 
 .contacts:hover {
     color: #404BBF;
@@ -103,7 +103,7 @@ title {
     background-color: #404BBF;
 }
 
-.h-two {
+.strategy-list {
     font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 20px;
@@ -112,7 +112,7 @@ title {
     color: #2e2f42;
 }
 
-.p-two {
+.strategy-description {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -143,18 +143,7 @@ title {
     background-color: #FFFFFF;
 }
 
-
-.h-two {
-    font-family: Roboto, sans-serif;
-    font-size: 20px;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-    text-align: center;
-    color: #2e2f42;
-}
-
-.h-three {
+.team-member {
     font-family: Roboto, sans-serif;
     font-size: 20px;
     font-weight: 500;
@@ -165,16 +154,7 @@ title {
     text-transform: capitalize;
 }
 
-.p-three {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color: #434455;
-}
-
-p {
-    font-family: Roboto, sans-serif;
-    font-weight: 400;
+.members-profession {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -201,6 +181,13 @@ p {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.portfolio-department {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 .footer {
