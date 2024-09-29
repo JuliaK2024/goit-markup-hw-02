@@ -126,10 +126,14 @@ title {
     background-color: #f4f4fd;
 }
 
+.our-team-list {
+    background-color: #FFFFFF;
+}
+
 .our-team-title {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
