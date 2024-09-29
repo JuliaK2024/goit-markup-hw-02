@@ -120,8 +120,7 @@ title {
 }
 
 .section-three {
-    width: 1440px;
-    height: 732px;
+
     background-color: #f4f4fd;
 }
 
@@ -141,7 +140,7 @@ title {
 
 .images-of-the-team {
 
-    background: url("path_to_image");
+    background-color: #FFFFFF;
 }
 
 
