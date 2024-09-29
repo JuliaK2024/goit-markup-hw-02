@@ -3,6 +3,14 @@ body {
     font-weight: 400;
 }
 
+title {
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 19.6px;
+    text-align: left;
+}
+
 .logo {
 
     font-family: Raleway, sans-serif;
@@ -54,9 +62,6 @@ body {
     color: #404BBF;
 }
 
-
-
-
 .section-one {
     width: 1440px;
     height: 600px;
@@ -88,6 +93,10 @@ body {
 
 }
 
+.button:hover {
+    background-color: #404BBF;
+}
+
 .button:focus {
     background-color: #404BBF;
 }
@@ -111,8 +120,7 @@ body {
 .section-three {
     width: 1440px;
     height: 732px;
-
-    background: #f4f4fd;
+    background-color: #f4f4fd;
 }
 
 .images-of-the-team {
@@ -122,37 +130,7 @@ body {
 }
 
 
-
-
-
-body {
-    font-family: Roboto,
-        sans-serif;
-    font-size: 16px;
-    font-weight: 500;
-
-    text-align: left;
-    color: #434455;
-    background-color: #FFFFFF;
-
-}
-
-
-title {
-    font-family: Roboto;
-    font-size: 14px;
-    font-weight: 500;
-    line-height: 19.6px;
-    text-align: left;
-}
-
 .h-two {
-    font-family: Roboto;
-    font-size: 36px;
-    font-weight: bold;
-}
-
-h3 {
     font-family: Roboto, sans-serif;
     font-size: 20px;
     font-weight: 500;
@@ -160,6 +138,24 @@ h3 {
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
+}
+
+.h-three {
+    font-family: Roboto, sans-serif;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2e2f42;
+    text-transform: capitalize;
+}
+
+.p-three {
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
 }
 
 p {
