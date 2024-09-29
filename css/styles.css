@@ -1,6 +1,9 @@
 body {
     font-family: Roboto, sans-serif;
     font-weight: 400;
+    color: #434455;
+    background-color: #FFFFFF;
+
 }
 
 title {
@@ -121,6 +124,16 @@ title {
     width: 1440px;
     height: 732px;
     background-color: #f4f4fd;
+}
+
+.our-team-title {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 1.11111;
+    letter-spacing: 0.02em;
+    text-align: center;
+    text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .images-of-the-team {
