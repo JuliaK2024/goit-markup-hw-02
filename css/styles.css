@@ -93,6 +93,7 @@ title {
     background-color: #4d5ae5;
     line-height: 1.5;
     cursor: pointer;
+    text-align: center;
 }
 
 .button:hover {
