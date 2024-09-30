@@ -15,14 +15,13 @@ title {
 
 .logo {
 
-    font-family: Raleway, sans-serif;
-    font-size: 18px;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
-    line-height: 1.17;
+    font-size: 18px;
+    line-height: 1.16667;
     letter-spacing: 0.03em;
-    text-decoration: Underline;
-    color: #4d5ae5;
     text-transform: uppercase;
+    color: #4D5AE5;
 }
 
 .Studio {
@@ -36,7 +35,7 @@ title {
     color: #2e2f42;
 }
 
-.navigation {
+.navigation-item {
     font-family: "Roboto", sans-serif;
     font-weight: 500;
     font-size: 16px;
@@ -53,15 +52,14 @@ title {
     color: #404bbf;
 }
 
-
-
-.mail-telephone {
+.address {
+    font-family: "Roboto", sans-serif;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    font-style: normal;
 }
-
 
 .contacts:hover {
     color: #404BBF;
