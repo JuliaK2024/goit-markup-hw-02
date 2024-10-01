@@ -44,11 +44,11 @@ title {
     letter-spacing: 0.02em;
 }
 
-.navigation:hover {
+.navigation-item-studio:hover {
     color: #404bbf;
 }
 
-.navigation:active {
+.navigation-item-studio:focus {
     color: #404bbf;
 }
 
@@ -64,7 +64,7 @@ title {
     font-style: normal;
 }
 
-.contacts:hover {
+.tel-mail:hover {
     color: #404BBF;
 }
 
